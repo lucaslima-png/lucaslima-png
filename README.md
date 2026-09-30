@@ -91,23 +91,6 @@ Sou apaixonado por resolver problemas com lógica e código. Estou construindo m
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/lucaslima-png/NOME-DO-REPOSITORIO-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucaslima-png&repo=NOME-DO-REPOSITORIO-1&theme=tokyonight&hide_border=true&bg_color=0a1128&title_color=00f0ff&icon_color=b026ff&text_color=c9d1d9" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/lucaslima-png/NOME-DO-REPOSITORIO-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucaslima-png&repo=NOME-DO-REPOSITORIO-2&theme=tokyonight&hide_border=true&bg_color=0a1128&title_color=00f0ff&icon_color=b026ff&text_color=c9d1d9" alt="Projeto 2"/>
-</a>
-<a href="https://github.com/lucaslima-png/NOME-DO-REPOSITORIO-3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucaslima-png&repo=NOME-DO-REPOSITORIO-3&theme=tokyonight&hide_border=true&bg_color=0a1128&title_color=00f0ff&icon_color=b026ff&text_color=c9d1d9" alt="Projeto 3"/>
-</a>
-<a href="https://github.com/lucaslima-png/NOME-DO-REPOSITORIO-4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucaslima-png&repo=NOME-DO-REPOSITORIO-4&theme=tokyonight&hide_border=true&bg_color=0a1128&title_color=00f0ff&icon_color=b026ff&text_color=c9d1d9" alt="Projeto 4"/>
-</a>
-
-</div>
-
 ---
 
 ## 🎯 `> cat objetivos_atuais.sh`
